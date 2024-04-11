@@ -1,37 +1,21 @@
-# nro de actividad ⚡
+## Tipo de usuario
+- [ ] Alfa
+- [ ] Bravo
+- [ ] Charlie
+- [ ] Delta
+- [ ] Echo
 
+## Tecnología
+- [ ] HTML
+- [ ] Json
+- [ ] Archivo plano (.txt)
+- [ ] Javascript
+- [ ] Markdown / .md
 
-# describe tú actividad 📜
-
-
-# selecciona ✔
-- [ ] feat
-- [ ] fix
-- [ ] changes
-- [ ] merge enviroment
-- [ ] in progress
-- [ ] docs
-- [ ] perf
-- [ ] testing-
-- [ ] style
-- [ ] build
-
-
-# ¿la actividad es estable? 🚀
-- [ ] si
-- [ ] no
-- [ ] 🤔 tengo dudas
-
-
-# captura de pantalla, (si no es estable ó un error u ...) 🎬
-- [ ] si
-- [ ] no
-
-
-
-#captura del testing si aplica test🧪
-- [ ] si
-- [ ] no
-
-
-
+## Seleccione el tipo de actividad
+- [ ] Feature
+- [ ] Changes
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [ ] Testing
